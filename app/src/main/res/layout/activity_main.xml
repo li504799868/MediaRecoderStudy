@@ -39,16 +39,10 @@
             android:text="开始录制视频"/>
 
     <Button
-            android:id="@+id/stop_video_record"
+            android:id="@+id/break_record"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="停止录制视频"/>
-
-    <Button
-            android:id="@+id/play_video"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="播放视频"/>
+            android:text="断点录制"/>
 
     <Button
             android:id="@+id/combine_audio_video"

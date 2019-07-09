@@ -9,7 +9,7 @@ import java.io.DataOutputStream
 import java.io.FileOutputStream
 
 /***
- *  音频录制， 通过MediaRecorder实现
+ *  音频录制， 通过AudioRecorderI实现
  *
  */
 class AudioRecorderImpl : AudioRecorder {
